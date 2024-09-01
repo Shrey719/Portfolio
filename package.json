@@ -1,0 +1,18 @@
+{
+  "name": "portfolio",
+  "version": "1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Shrey719",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "node": "^18.20.3"
+  }
+}
